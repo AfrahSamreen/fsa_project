@@ -1,5 +1,5 @@
 const config = {
-    dbConStr: procees.env.dbConStr,
+    dbConStr: process.env.dbConStr,
     jwtSecret: process.env.jwtSecret
 };
 
